@@ -1,0 +1,8 @@
+# Ignore Conda environment folder
+nlp_project/
+
+# Ignore Python cache files
+__pycache__/
+
+# CRITICAL: Ignore the local secrets file
+.streamlit/secrets.toml
